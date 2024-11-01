@@ -1,0 +1,26 @@
+#wp-piclist{
+	padding:0px;
+	margin:0px;
+	background:none;
+	border:none;
+	background:#3E3E3E;
+	padding:10px;
+	display:block;
+	overflow:hidden;
+	overflow-x:auto;
+	zoom:1;
+}
+
+#wp-piclist ul,
+#wp-piclist li{
+	margin:0; padding:0; 
+	background:none;
+	border:none;
+}
+
+#wp-piclist ul li{
+	float:left;
+	list-sytle:none	;
+	list-style-type: none !important;
+	padding:10px 10px;
+}
